@@ -6,9 +6,9 @@
 
 The RSI (Relative Strength Index) trading strategy is a momentum oscillator used in technical analysis to measure the speed and change of price movements. 
 
-RSI values range from 0 to 100 and are typically calculated using a 14-day moving average of gains and losses. 
+RSI values range from 0 to 100 and are typically calculated using a 14-day moving average of gains and losses.
 
-This strategy leverages two key thresholds: a lower threshold (commonly set at 30) and an upper threshold (commonly set at 70). 
+This strategy leverages two key thresholds: a lower threshold (commonly set at 30) and an upper threshold (commonly set at 70).
 
 **BUY signal**: the RSI value crosses above the lower threshold. The asset is potentially oversold and may experience an upward price reversal. 
 
