@@ -11,7 +11,7 @@ This strategy leverages two key thresholds: a lower threshold (commonly set at 3
 
 **BUY signal**: the RSI value crosses above the lower threshold. The asset is potentially oversold and may experience an upward price reversal. 
 
-**SELL signal**: the RSI value crosses below the upper threshold. The asset is potentially overbought and may undergo a downward price correction. 
+**SELL signal**: the RSI value crosses below the upper threshold. The asset is potentially overbought and may undergo a downward price correction.
 
 This strategy aims to capitalize on price momentum and identify potential reversal points. Positions are adjusted accordingly, buying when the RSI indicates oversold conditions and selling when it indicates overbought conditions. By holding positions until the RSI generates a contrary signal, this strategy seeks to exploit short-term price fluctuations and capture gains from anticipated price movements. It is particularly effective in ranging markets, where prices oscillate between support and resistance levels, providing clear buy and sell opportunities based on momentum shifts.
 
