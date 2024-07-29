@@ -3,7 +3,6 @@
  **The strategy**
 
 
-
 The RSI (Relative Strength Index) trading strategy is a momentum oscillator used in technical analysis to measure the speed and change of price movements. 
 
 RSI values range from 0 to 100 and are typically calculated using a 14-day moving average of gains and losses.
