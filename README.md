@@ -9,7 +9,7 @@ RSI values range from 0 to 100 and are typically calculated using a 14-day movin
 
 This strategy leverages two key thresholds: a lower threshold (commonly set at 30) and an upper threshold (commonly set at 70).
 
-**BUY signal**: the RSI value crosses above the lower threshold. The asset is potentially oversold and may experience an upward price reversal. 
+**BUY signal**: the RSI value crosses above the lower threshold. The asset is potentially oversold and may experience an upward price reversal.
 
 **SELL signal**: the RSI value crosses below the upper threshold. The asset is potentially overbought and may undergo a downward price correction.
 
