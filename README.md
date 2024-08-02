@@ -1,7 +1,7 @@
  This Python program is designed to backtest a technical analysis based algorithmic trading strategy.
 
  **The strategy**
-
+ 
 
 The RSI (Relative Strength Index) trading strategy is a momentum oscillator used in technical analysis to measure the speed and change of price movements.
 
